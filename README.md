@@ -1,5 +1,5 @@
 ### 使用方式：
 安装fail2ban
 ```
-bash <(curl -fsSL https://cloudreve.9su.de/f/o2Rhv/fail2ban-ssh-script.sh)
+bash <(curl -fsSL https://github.com/zmh2024/Script/releases/download/v1.0/fail2ban-ssh-script.sh)
 ```
